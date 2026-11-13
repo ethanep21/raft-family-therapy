@@ -61,6 +61,10 @@ export function HomeScreen() {
       </ul>
 
       <TodayAppointments />
+
+      <footer className="border-t pt-4 text-center text-xs text-muted-foreground">
+        Richmond Area Family Therapy — RAFT
+      </footer>
     </div>
   )
 }
