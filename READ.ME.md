@@ -1,0 +1,1 @@
+v0.app. my first prompt was simply the one given in the assignment with the necessary changes addeed. AI initially did not add the API keys from Supabase so I had to add them manually. I added a footer to the website because it is typically something that most websites have the includes copyright info.
